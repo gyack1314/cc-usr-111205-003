@@ -1,0 +1,328 @@
+{
+  "rows": [
+    {
+      "id": "p0-0",
+      "process": "event0",
+      "issued_time": 0,
+      "lead": 1,
+      "p": 1.2,
+      "outcome": 0,
+      "weight": 1
+    },
+    {
+      "id": "p0-1",
+      "process": "event0",
+      "issued_time": 1,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p0-2",
+      "process": "event0",
+      "issued_time": 2,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p0-3",
+      "process": "event0",
+      "issued_time": 3,
+      "lead": 1,
+      "p": 0.7,
+      "outcome": 0,
+      "weight": 2
+    },
+    {
+      "id": "p0-4",
+      "process": "event0",
+      "issued_time": 4,
+      "lead": 1,
+      "p": 1,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p1-0",
+      "process": "event1",
+      "issued_time": 100,
+      "lead": 1,
+      "p": 0,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p1-1",
+      "process": "event1",
+      "issued_time": 101,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p1-2",
+      "process": "event1",
+      "issued_time": 102,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 0,
+      "weight": 1
+    },
+    {
+      "id": "p1-3",
+      "process": "event1",
+      "issued_time": 103,
+      "lead": 1,
+      "p": 0.7,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p1-4",
+      "process": "event1",
+      "issued_time": 104,
+      "lead": 1,
+      "p": 1,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p2-0",
+      "process": "event2",
+      "issued_time": 200,
+      "lead": 1,
+      "p": 0,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p2-1",
+      "process": "event2",
+      "issued_time": 201,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 0,
+      "weight": 2
+    },
+    {
+      "id": "p2-2",
+      "process": "event2",
+      "issued_time": 202,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p2-3",
+      "process": "event2",
+      "issued_time": 203,
+      "lead": 1,
+      "p": 0.7,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p2-4",
+      "process": "event2",
+      "issued_time": 204,
+      "lead": 1,
+      "p": 1,
+      "outcome": 0,
+      "weight": 1
+    },
+    {
+      "id": "p3-0",
+      "process": "event3",
+      "issued_time": 300,
+      "lead": 1,
+      "p": 0,
+      "outcome": 0,
+      "weight": 1
+    },
+    {
+      "id": "p3-1",
+      "process": "event3",
+      "issued_time": 301,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p3-2",
+      "process": "event3",
+      "issued_time": 302,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p3-3",
+      "process": "event3",
+      "issued_time": 303,
+      "lead": 1,
+      "p": 0.7,
+      "outcome": 0,
+      "weight": 2
+    },
+    {
+      "id": "p3-4",
+      "process": "event3",
+      "issued_time": 304,
+      "lead": 1,
+      "p": 1,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p4-0",
+      "process": "event4",
+      "issued_time": 400,
+      "lead": 1,
+      "p": 0,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p4-1",
+      "process": "event4",
+      "issued_time": 401,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p4-2",
+      "process": "event4",
+      "issued_time": 402,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 0,
+      "weight": 1
+    },
+    {
+      "id": "p4-3",
+      "process": "event4",
+      "issued_time": 403,
+      "lead": 1,
+      "p": 0.7,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p4-4",
+      "process": "event4",
+      "issued_time": 404,
+      "lead": 1,
+      "p": 1,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p5-0",
+      "process": "event5",
+      "issued_time": 500,
+      "lead": 1,
+      "p": 0,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p5-1",
+      "process": "event5",
+      "issued_time": 501,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 0,
+      "weight": 2
+    },
+    {
+      "id": "p5-2",
+      "process": "event5",
+      "issued_time": 502,
+      "lead": 1,
+      "p": 0.2,
+      "outcome": 1,
+      "weight": 1
+    },
+    {
+      "id": "p5-3",
+      "process": "event5",
+      "issued_time": 503,
+      "lead": 1,
+      "p": 0.7,
+      "outcome": 1,
+      "weight": 2
+    },
+    {
+      "id": "p5-4",
+      "process": "event5",
+      "issued_time": 504,
+      "lead": 1,
+      "p": 1,
+      "outcome": 0,
+      "weight": 1
+    }
+  ],
+  "development_processes": [
+    "event0",
+    "event1",
+    "event2",
+    "event3"
+  ],
+  "external_processes": [
+    "event4",
+    "event5"
+  ],
+  "folds": [
+    {
+      "train": [
+        "event0"
+      ],
+      "validation": [
+        "event1"
+      ]
+    },
+    {
+      "train": [
+        "event0",
+        "event1"
+      ],
+      "validation": [
+        "event2"
+      ]
+    },
+    {
+      "train": [
+        "event0",
+        "event1",
+        "event2"
+      ],
+      "validation": [
+        "event3"
+      ]
+    }
+  ],
+  "shrink_candidates": [
+    0,
+    0.5,
+    1
+  ],
+  "outside_support": "clamp",
+  "bin_edges": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    1
+  ],
+  "bootstrap_draws": 199,
+  "seed": 38
+}
