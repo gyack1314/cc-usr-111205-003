@@ -5,7 +5,7 @@
       "process": "event0",
       "issued_time": 0,
       "lead": 1,
-      "p": 0,
+      "p": 0.2,
       "outcome": 0,
       "weight": 1
     },
@@ -41,7 +41,7 @@
       "process": "event0",
       "issued_time": 4,
       "lead": 1,
-      "p": 1,
+      "p": 0.8,
       "outcome": 1,
       "weight": 1
     },
@@ -50,7 +50,7 @@
       "process": "event1",
       "issued_time": 100,
       "lead": 1,
-      "p": 0,
+      "p": 0.2,
       "outcome": 1,
       "weight": 1
     },
@@ -86,7 +86,7 @@
       "process": "event1",
       "issued_time": 104,
       "lead": 1,
-      "p": 1,
+      "p": 0.8,
       "outcome": 1,
       "weight": 1
     },
@@ -95,7 +95,7 @@
       "process": "event2",
       "issued_time": 200,
       "lead": 1,
-      "p": 0,
+      "p": 0.2,
       "outcome": 1,
       "weight": 1
     },
@@ -131,7 +131,7 @@
       "process": "event2",
       "issued_time": 204,
       "lead": 1,
-      "p": 1,
+      "p": 0.8,
       "outcome": 0,
       "weight": 1
     },
@@ -140,7 +140,7 @@
       "process": "event3",
       "issued_time": 300,
       "lead": 1,
-      "p": 0,
+      "p": 0.2,
       "outcome": 0,
       "weight": 1
     },
@@ -176,7 +176,7 @@
       "process": "event3",
       "issued_time": 304,
       "lead": 1,
-      "p": 1,
+      "p": 0.8,
       "outcome": 1,
       "weight": 1
     },
@@ -230,7 +230,7 @@
       "process": "event5",
       "issued_time": 500,
       "lead": 1,
-      "p": 0,
+      "p": 0.2,
       "outcome": 1,
       "weight": 1
     },
@@ -248,7 +248,7 @@
       "process": "event5",
       "issued_time": 502,
       "lead": 1,
-      "p": 0.2,
+      "p": 0.5,
       "outcome": 1,
       "weight": 1
     },
@@ -266,7 +266,7 @@
       "process": "event5",
       "issued_time": 504,
       "lead": 1,
-      "p": 1,
+      "p": 0.8,
       "outcome": 0,
       "weight": 1
     }
